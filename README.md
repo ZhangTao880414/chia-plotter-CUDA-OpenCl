@@ -10,11 +10,13 @@
 + chia-plotter-OpenCl
 + 6x AMD 5500 XT / 1 Plots = 135sec
 
-# Dowloads: soon ! soon ! soon ! 
+# Dowloads: 
      
 + 1.Tutorial PDF & SETTING UP Included in .ZIP file
 + 2.Chia Ploting GPU RAM Drive Step by Step PDF File
 + 3.chia-plotter-CUDA-OpenCl.Zip
+     
+  https://satoshidisk.com/pay/CCiJTq
      
  -----------------------------------------------------
 
